@@ -1,0 +1,129 @@
+{
+  "period":"2026-04-26_to_2026-04-29",
+
+  "capabilities":[
+
+    {
+      "name":"Numerical Reasoning",
+      "evidence":[
+        "自主出数学题",
+        "设计规律题",
+        "设计数轴题",
+        "理解四则运算"
+      ]
+    },
+
+    {
+      "name":"Mental Computation",
+      "evidence":[
+        "心算72÷(6+3)-2",
+        "持续进行整数运算"
+      ]
+    },
+
+    {
+      "name":"Pattern Recognition",
+      "evidence":[
+        "规律题设计",
+        "数轴填空"
+      ]
+    },
+
+    {
+      "name":"Symbolic Representation",
+      "evidence":[
+        "偶数→石头",
+        "奇数→鳄鱼"
+      ]
+    },
+
+    {
+      "name":"Narrative Construction",
+      "evidence":[
+        "Arlo故事系统",
+        "石头鳄鱼世界观"
+      ]
+    },
+
+    {
+      "name":"Human-AI Interaction",
+      "evidence":[
+        "拍照询问AI",
+        "与AI讨论棒球",
+        "与AI共同解题"
+      ]
+    },
+
+    {
+      "name":"AI-assisted Learning",
+      "evidence":[
+        "查询陌生单词",
+        "完成英语任务",
+        "解决知识空缺"
+      ]
+    },
+
+    {
+      "name":"Logical Reasoning",
+      "evidence":[
+        "花朵排列题",
+        "逻辑游戏",
+        "位置推理"
+      ]
+    },
+
+    {
+      "name":"Reading Comprehension",
+      "evidence":[
+        "A New Neighbor",
+        "英语互动阅读"
+      ]
+    },
+
+    {
+      "name":"Social Initiation",
+      "evidence":[
+        "主动介绍姓名",
+        "首次朋友互动"
+      ]
+    },
+
+    {
+      "name":"Resource Exchange",
+      "evidence":[
+        "玩具交换"
+      ]
+    },
+
+    {
+      "name":"Intrinsic Motivation",
+      "evidence":[
+        "连续多日主动出题",
+        "持续自主探索",
+        "自主与AI互动"
+      ]
+    },
+
+    {
+      "name":"Self-directed Learning",
+      "evidence":[
+        "自主提问",
+        "自主查找答案",
+        "自主完成任务"
+      ]
+    }
+  ],
+
+  "meta":{
+
+    "learning_mode":"self_directed",
+
+    "interaction_mode":"human_ai_collaborative",
+
+    "problem_style":"game_based",
+
+    "knowledge_expression":"story_and_symbol",
+
+    "engagement":"high"
+  }
+}
